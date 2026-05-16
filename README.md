@@ -109,7 +109,6 @@ Real-world secure messaging applications should use:
 
 ## 📸 Screenshots
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ad642503-2fd5-4385-a2f9-70d35ad20206" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/cc1978a5-f935-49dc-abf7-114832544e3d" />
 
 
